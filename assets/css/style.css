@@ -1,0 +1,24 @@
+body {
+    background-color: whitesmoke;
+}
+
+.main {
+    background-color: white;
+    border: 1px solid #e5e5e5;
+    box-shadow: 3px 5px 10px #e0e0e0;
+    padding: 16px;
+}
+
+.card-header {
+    cursor: pointer;
+}
+
+.card-header-desc {
+    font-size: 0.75rem;
+    color: #999;
+}
+
+.alert-info,
+.alert-danger {
+    display: none;
+}
