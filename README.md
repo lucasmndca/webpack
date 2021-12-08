@@ -22,3 +22,6 @@ Also, please do not forget to run `npm install` starting from lesson #2.
 - HTML5
 - CSS3
 - Webpack 5
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/58034066/145248824-df21cc4d-b6bc-4c0a-9838-6701489bea21.png)
